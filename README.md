@@ -13,6 +13,7 @@ A aplicação foi feita para listar card's de citações de livros, famosos e et
 1. Clone o repositório do GitHub.
 2. Abra o projeto no seu editor de código.
 3. Instale o pacote do projeto com npm install.
+4. Starte o projeto com npm run serve.
 
 # Créditos
 
